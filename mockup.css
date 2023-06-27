@@ -1,0 +1,186 @@
+.trade {
+    width: 200px;
+    height: 25px;
+    background-color: #222f3d;
+    border-radius: 4px;
+}
+
+.trade .traditional {
+    width: 60%;
+    font-size: 8px;
+    text-align: center;
+    line-height: 25px;
+    color: black;
+    background-color: #e9eef3;
+    border-radius: 4px;
+    float: left; 
+}
+
+.trade .nlp {
+    width: 40%;
+    font-size: 8px;
+    text-align: center;
+    line-height: 25px;
+    color: #6b8ac6;
+    float: left;
+}
+
+.head {
+    height: 84px;
+    border-bottom: 2px solid #2f4357;
+}
+
+.head div {
+    width: 126px;
+    height: 84px;
+    padding: 20px 0 22px 0;
+    margin-right: 16px;
+    color: #fff;
+    font-size: 8px;
+    display: inline-block;
+
+
+}
+
+.head div input {
+    width: 120px;
+    height: 23px;
+    color: #fff;
+    border: 1px solid #2f4357;
+    border-radius: 4px;
+    background-color: #17202a;
+}
+
+.head div select {
+    width: 124px;
+    height: 26px;
+    color: #fff;
+    border-radius: 4px;
+    border: 1px solid #2f4357;
+    background-color: #17202a;
+}
+
+.head .trading {
+    margin-right: 0;
+}
+
+
+.head .buy {
+    width: 74px;
+    height: 84px;
+    padding: 20px 0 0 0;
+    /* margin-left: 10px; */
+    /* color: #00b755; */
+    /* font-size: 8px; */
+    margin-right: 0;
+    margin-left: 8px;
+    display: inline-block;
+    /* background-color: #00b755; */
+    /* border-radius: 4px; */
+}
+
+.head .buy input {
+    width: 64px;
+    height: 26px;
+    color: black;
+    background-color: #00b755;
+    border-radius: 4px;
+}
+
+.head .sell {
+    width: 74px;
+    height: 84px;
+    padding: 20px 0 22px 0px;
+    /* margin-left: 10px; */
+    /* color: #00b755; */
+    /* font-size: 8px; */
+    margin-right: 0;
+    display: inline-block;
+    /* background-color: #00b755; */
+    /* border-radius: 4px; */
+}
+
+.head .sell input {
+    width: 64px;
+    height: 26px;
+    color: black;
+    background-color: #ffcd00;
+    border-radius: 4px;
+}
+
+ul {
+    margin-top: 23px;
+    width: 260px;
+    height: 26px;
+    padding: 3px;
+    background-color: #222f3d;
+    border-radius: 4px;
+
+}
+
+ul>li {
+    color: #6b8ac6;
+    font-size: 16px;
+    text-align: center;
+    /* border-right: 1px solid#6b8ac6; */
+    /* border-radius: 4px; */
+    line-height: 26px;
+    list-style: none;
+    width: 28px;
+    height: 26px;
+    display: inline-block;
+}
+
+.day {
+    color: black;
+    background-color: #fff;
+    border-radius: 4px;
+}
+
+table {
+    /* color: #6b8ac6; */
+    /* width: 100%; */
+    border-spacing: 0;
+    border-collapse: collapse;
+    border: 1px solid #6b8ac6;
+    background-color: #222f3d;
+    color: #fff;
+    font-size: 16px;
+}
+
+
+.table_key {
+    background-color: #2b3d4e;
+}
+
+th {
+    text-align: left;
+}
+
+table td {
+    border: 1px solid #6b8ac6;
+    /* border: 1px solid #000; */
+    /* padding: 20px 30px; */
+    width: 120px;
+    height: 30px;
+}
+
+body {
+    background-color: #10161d;
+}
+
+span {
+    color: #fff;
+}
+
+.tbuy {
+    color: #00b755;
+}
+
+.tsell {
+    color: red;
+}
+
+.net {
+    color: #6b8ac6;
+}
